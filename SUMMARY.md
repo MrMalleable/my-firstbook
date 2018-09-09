@@ -5,4 +5,6 @@
   * [while](chapter1/while.md)
   * [but](but.md)
   * [though](chapter1/though.md)
+  * [although](chapter1/although.md)
+  * [even](chapter1/even.md)
 
