@@ -1,3 +1,4 @@
-# First Chapter
+# 单词大杂烩
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+小牛觉得这些词的意思在完形填空的时候特别容易出错。
+
